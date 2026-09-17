@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+figures/*
+!figures/.gitkeep
+*.zip
+*.csv
+*.npy
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

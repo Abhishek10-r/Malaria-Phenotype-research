@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+tifffile
+kneed
+imagecodecs
+
+# Dimensionality reduction / clustering
+umap-learn
+hdbscan
+
+# Feature extraction
+tensorflow
+torch
+transformers
+
+# Misc
+beautifulsoup4
+lxml
+tqdm
+Pillow
